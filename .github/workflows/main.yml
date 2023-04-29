@@ -1,7 +1,7 @@
 name: Run selenium test
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
 
 
 jobs:
