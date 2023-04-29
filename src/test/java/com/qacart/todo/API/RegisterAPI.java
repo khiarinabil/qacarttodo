@@ -4,7 +4,6 @@ import com.qacart.todo.UTILES.UsrUtlies;
 import com.qacart.todo.objects.User;
 import io.restassured.http.Cookie;
 import io.restassured.response.Response;
-
 import java.util.List;
 
 import static io.restassured.RestAssured.given;
